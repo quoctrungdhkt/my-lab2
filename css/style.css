@@ -1,0 +1,25 @@
+* {
+    font-family: Tahoma;
+    font-size: 11px;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.p1 {
+    color: red;
+}
+
+.p2 {
+    color: green;
+}
+
+.p3 {
+    color: red;
+    font-weight: bold;
+}
+.p4 {
+    font-family: Consolas;
+}
